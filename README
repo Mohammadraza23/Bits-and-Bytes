@@ -1,0 +1,13 @@
+Name : Mohammad Raza
+Student # : 101199686
+
+Descriptions of Program: Prompting user to either choose if they want to
+                         encrypt a readable message (plaintext) or decrypt
+                         a sequence of numbers into a readable way (ciphertext).
+
+List of Source Files: a2-posted.c
+                      README
+
+Instructions
+           Compiling - gcc -o a2 a2-posted.c
+             Running - ./a2
